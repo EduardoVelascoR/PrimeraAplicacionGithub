@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Primera Aplicacion Aleman</string>
+    <string name="bievenida">Willcomen</string>
+    <string name="boton">Betreten</string>
+</resources>
